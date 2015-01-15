@@ -1,0 +1,28 @@
+{
+  "name": "bitcoffee",
+  "version": "0.0.1",
+  "description": "bitcoffee =========",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.1",
+    "http": "0.0.0",
+    "request": "^2.47.0",
+    "spark": "^0.2.2",
+    "spark-io": "^0.5.1"
+  },
+  "main": "spark.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canzhiye/bitcoffee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canzhiye/bitcoffee/issues"
+  },
+  "homepage": "https://github.com/canzhiye/bitcoffee"
+}
